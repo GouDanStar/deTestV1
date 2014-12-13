@@ -1,0 +1,4 @@
+#file ignore
+/input        #input folder
+/output       #output folder
+*.asv         #matlab auto-save file
